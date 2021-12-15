@@ -1,0 +1,4 @@
+code/
+dataset/
+*.zip
+__pycache__/
